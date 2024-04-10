@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DM , Power BI , CSQL, Excel
 - 💞️ I’m looking to collaborate on Guvi
 - 📫 How to reach me ranjith531869@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He
 - ⚡ Fun fact: ...
 
 <!---
