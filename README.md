@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ranjithkumar
-- 👀 I’m interested in Digital marketing , bi analyst and business analyst
+- 👀 I’m interested in Power BI , Excel, catalouging 
 - 🌱 I’m currently learning DM , Power BI , CSQL, Excel
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Guvi
 - 📫 How to reach me ranjith531869@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
